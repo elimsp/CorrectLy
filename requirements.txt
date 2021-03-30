@@ -11,4 +11,4 @@ textblob==0.15.1
 nltk==3.2.5
 docx==0.2.4
 jellyfish==0.6.1
-pattern==2.6
+pattern==2.7
